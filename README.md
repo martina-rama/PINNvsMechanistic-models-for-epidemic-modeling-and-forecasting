@@ -1,1 +1,1 @@
-# PINNvsMechanistic-for-epidemic-modeling-and-forecasting
+# PINNvsMechanistic-models-for-epidemic-modeling-and-forecasting
