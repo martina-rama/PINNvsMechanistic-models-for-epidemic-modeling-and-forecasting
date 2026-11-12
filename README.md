@@ -3,6 +3,7 @@
 Code and data for the paper comparing a Physics-Informed Neural Network (PINN) with a classical Mechanistic model (calibrated via ABC) for epidemic forecasting, under a deliberately minimal shared setting.
 
 Title: A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting
+
 Authors: Martina Rama, Yuhan Li, Bruno Lepri, Nicola Perra, Michele Tizzoni
 
 ## The two models
