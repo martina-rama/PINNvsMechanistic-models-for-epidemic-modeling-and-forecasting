@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pinnvsmech"
+version = "0.1.0"
+description = "PINN vs mechanistic models for epidemic forecasting"
+requires-python = ">=3.9"
+
+[tool.setuptools.packages.find]
+where = ["src"]

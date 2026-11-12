@@ -1,0 +1,10 @@
+numpy<2.4   # pymcmcstat does not work with numpy >= 2.4
+scipy
+pandas
+matplotlib
+torch
+tqdm
+openpyxl
+pymcmcstat
+jupyter
+pyyaml
