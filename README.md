@@ -41,7 +41,3 @@ pip install -e .
 ## Citation
 
 _To be added._
-
-## License
-
-_To be added._
