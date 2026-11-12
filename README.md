@@ -2,12 +2,13 @@
 
 Code and data for the paper comparing a Physics-Informed Neural Network (PINN) with a classical Mechanistic model (calibrated via ABC) for epidemic forecasting, under a deliberately minimal shared setting.
 
-> Paper: _title, authors, journal and DOI to be added_
+Title: A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting
+Authors: Martina Rama, Yuhan Li, Bruno Lepri, Nicola Perra, Michele Tizzoni
 
 ## The two models
 
 - **PINN**: implemented in this repository (`src/pinnvsmech/`), with MCMC inference and rolling-window forecasting.
-- **Mechanistic**: implemented in a separate repository, [_link to be added_](#). This repository contains only its results, converted to the same format as the PINN results (`precomputed/`), so that the two models can be compared.
+- **Mechanistic**: implemented in a separate repository, [https://github.com/Jadecoool/Comparing-physics-informed-neural-networks-and-mechanistic-models-for-epidemic-forecasting](link). This repository contains only its results, converted to the same format as the PINN results (`precomputed/`), so that the two models can be compared.
 
 ## What is in this repository
 
