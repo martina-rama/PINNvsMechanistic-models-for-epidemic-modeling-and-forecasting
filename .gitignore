@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# New runs (precomputed/ is tracked on purpose)
+outputs/*
+!outputs/.gitkeep
+
+# Large temporary files
+*.tmp
+
+# Training set is 118 MB (GitHub limit 100 MB): regenerate with notebook 02 or download from the archive
+data/training/deterministic_dataset_*.csv
+
+# Raw results of the Mechanistic model (calibrated in its own repository): only the converted ones are kept
+data/mechanistic_raw/
