@@ -4,6 +4,7 @@ Code and data for the paper comparing a Physics-Informed Neural Network (PINN) w
 
 Title: A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting
 Authors: Martina Rama, Yuhan Li, Bruno Lepri, Nicola Perra, Michele Tizzoni
+Preprint version (2026): [arXiv:2611.18389](https://arxiv.org/abs/2611.18389)
 
 ## The two models
 
@@ -36,7 +37,3 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 pip install -e .
 ```
-
-## Citation
-
-_To be added._
